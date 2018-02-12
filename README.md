@@ -1,4 +1,4 @@
-# clinvid-assignment
+# Instructions to run the program StringToJson which contains the actual code
 Program is written in JAVA, please follow the below steps to run it.
 1. I have used org.json to create JSON from string, please download the json zip from this link http://www.java2s.com/Code/JarDownload/org.json/org.json.jar.zip.
 2. After downloading, unzip the package.
